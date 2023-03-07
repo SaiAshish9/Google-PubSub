@@ -1,3 +1,7 @@
+```
+Webhooks are used for one-way communication from a source application to a destination application, while WebSockets facilitate two-way communication between server and client. WebRTC is known to offer peer-to-peer (P2P) communication capabilities for mobile and browser apps using the UDP whereas WebSockets establishes a client-server connection with the aid of TCP protocol. And so, WebRTCs are known to be considerably faster than WebSockets.
+```
+
 <img width="685" alt="Screenshot 2023-03-07 at 11 13 14 PM" src="https://user-images.githubusercontent.com/43849911/223504960-8edbe862-64e2-48a1-84ae-5616bc172794.png">
 
 <img width="1787" alt="Screenshot 2023-03-07 at 11 29 02 PM" src="https://user-images.githubusercontent.com/43849911/223508876-628054aa-f9aa-4d4d-ad3d-e4fd08111286.png">
