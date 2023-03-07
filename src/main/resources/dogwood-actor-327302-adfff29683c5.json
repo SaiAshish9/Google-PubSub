@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dogwood-actor-327302",
+  "private_key_id": "adfff29683c5f87a8287fab114e91459569bdaa1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNMzqHUFrS0mO7\nZ2Eh6zPhjW1TqeOEpALEEUwRr4it/5T843MttyYSqEf/Ltu0UulPLoJdUkayLpLT\n4fPrvCww8vMuf2DQZTxtGSbZhYwCxzYgq082AKuMTQpXS9IkB/BH3II5r/MjDg63\n2t+3ExEwqUlm0vIJq+v/N52bzB+n1UX7+g4UpJYubDfGV7Y8pFw/RqtMw0NOCLft\nNEV/F65ulWcx8r9tg+X0RDkd18u8PYImE+/P+2pc5pG7xyxvSWMu/55R6W1QfgAV\n3ow/a+/W9DY6V7oK4q9/cmIWFXEpkS+rbCgeDxZVx73vJj+tuTfCOLGrYgE8tAmK\nHn8xqGOZAgMBAAECggEAAs3a/vuMi4TSVelbKjMUNdZF2BwXpBnNVjUUo0mRC6xV\nB/dVZ6/w86sm4A2Zn9dMjBILDYVA5Tvzh9+MArIYWis5GARSbslHYAf1NYlDPnbO\n86Irq7BVfSNrYKyEU2I5Y3NXuJFB4xN/hNMsoKGV0qKpl7UKbN0+KnIYiQcV0qhg\n7MR5AkJ4xkbi2Hats1nB8k90gnm7UwG7+MgQWfnmdZl237VauJIoU5fed2oqLqBl\nub4nKY1giKWbN1wEj/X0zAYt2POVOl33tOiLqqbxzQ7zPjcYPhzE4eC+psbxLv6A\n69qfZaAl4xSPvTzSI/6Y/WGi2MeAS9aP5XopJikXIQKBgQD0Ytsq/D1HPwFlHLFD\nCpHe/MLQjV9oE+3I9GDQuaGKYNVfmUTqZsNyqm5JtkFAoRgqTE7lib5DtdbWVzxZ\njUilBEmJVvhjiyb3ZCRhrltQdf+Gj+pzfAxckjMr/mKLMdQCRPnHadq0MBvLsTXV\n5auZZO1cy+0vtHWKee1WoLbdEQKBgQDW86T3OpFdogafTQFHVWLk6Fu+kFjKFFU0\nbafl3C+ULWfaensRGXY7GGxqqqc2xPCxu74oxwymxtiB4DMXTTzpVdtyDsGhqlGz\nbZmCt8P1G7V/z32OoKbTwRIulTTmCJkdATJZAqgl3QiWqVpUokbvesWh+wM4Y0qN\n0h9+wKi+CQKBgQDTs58wSXm78jR/Jq/X55wdktAgYZc4Tas63ZfQuD3b5a5xNhCh\nDYxaFJGdgShdmC+a1Kez5/LOLQOCgedhnCZF7MTXGGPrt2t1+2YYyDWKKe3E3361\ns8vxlSSHA8LR2cRSgvXtbSFr3hD2DvkX5fEU3H1SWcWKAcWgw6Z52JcQQQKBgAc2\nX6eoAG6q3BwGQm+5TrstjL6FK2WEbyN2NncA/1uydlSfXXfCafQrqp+doES3MPhV\nu1i07Ri/fU5GTpCOl+egaN+X3SlmhJ1HpSn8roeP6XQjaywY+eALD2geu4qoaTLO\n8niIHUo/82TSw+QpGcY5UV5RBNekhUDi9wmSv1a5AoGAPWQxEMF9hVhbuwDwiw53\nsh0WjVkBbMn+UduvrhsEA4qamP1TZ1XkJ3PeNN4P7PoOYZOX3pbIjifCnByyxO5h\nUKv/GNNGGJzclw1jTUPn8YkQ9GK6FI6mK5D5X3BhzL/ZWFS6/G82A2vG+mxhX7hn\nVrMHnsu3z22kGRUgTVt3B1o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubproducer@dogwood-actor-327302.iam.gserviceaccount.com",
+  "client_id": "116594934217646025884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubproducer%40dogwood-actor-327302.iam.gserviceaccount.com"
+}
