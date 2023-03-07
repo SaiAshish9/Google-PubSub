@@ -13,7 +13,7 @@ public class ProducerServiceActuator {
 	@Bean
 	@ServiceActivator(inputChannel = "outboundMsgChanel")
 	public PubSubMessageHandler messageSender(PubSubTemplate pubsubtTemplate) {
-		return new PubSubMessageHandler(pubsubtTemplate, "pubsubDemo");
+		return new PubSubMessageHandler(pubsubtTemplate, "pubsubdemo");
 	}
 
 }
