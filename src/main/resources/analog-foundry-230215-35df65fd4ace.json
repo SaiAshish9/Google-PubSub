@@ -1,8 +1,8 @@
 {
   "type": "service_account",
   "project_id": "analog-foundry-230215",
-  "private_key_id": "35df65fd4ace1c060b546e116b6a036a3518b026",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVHev/v/F7lGsc\n6SJQmDK7x0e6wHDrAM378+4SGvxORynE+fEUGLDAQdTOSEudILtkEFsw3TH5mjzg\nhee/wap/B13xxzyxtQ4mI+owcYpq5txZ7y+Pa/HbkeejwgVZN1qNks4Y1bLClDFy\nKeZzvtfs7C734IN9dxjA1igHSz/IGK44pNyX7FFPZzWjfi70xK1h+B3dfH0y2v0H\n/1dnaLUHWMgQXpVYpveBXCiDwbuNUD20sr2+5s94qPaxE5Zp8dNrK1DKbO0iLL6w\nBe4vq4feVTV4WzM6LQ+jrfN+vAq2AbcqrVlWaw1MlUvUugdOWnjGzpc7naEiTgBf\nLMyUlD+VAgMBAAECggEAAf5Op8y+0H4Z5mJT3NcfmlwJ0rhcFgai5plof6ja9Ux7\nGomP9LUqahHzkJ5ifqzAs/XnNHTNM916dksqWMPR+XAzM8C+U5cy865gUWWuesOA\nCiNPmZLT507dEM4OyL/Yy/w0i0zsaB+EuuGjcy+0y1WGNvFVqYXEqIEYTMEqbo+w\nKe4YSwHA8mQpnK0Mu8SBvftxuprGYKu7q6rmXDlKf+oQbvZt27xX43dzsr8IarR7\ny+Dd+JPItpX5eZLcjYrG6ZH4EL78H45G8ixbZD2Va0j7R9tHOaQiW0ysRn/zPeJQ\n9WiB8xmuSjZiiDvLUAs09zWEdn2/VjDb2VRN+v94AQKBgQDzZNIB5V4C15Lij/pu\nVmui7zaehbWBpUslNjgtCk9Z5o2qXDS3snNPvinKejT49RmRr2Nqu1xTMxHX/BGU\nqwbjLMWJWejCIPZSZihLx3kRbFQdL+3vnt8TNM9whRDcH2GkOi+M4OLXF1TVlkNR\nIPdbQTRV83EEPIiGvdT3mqzZlQKBgQDgJ6gqAKGJSq5R5AwkgW6LScBdftKu8VOQ\nPUkIfCYAAGa+DtgWYGAUbDCgxgIK87ar3pylhEUKG4qQ59EXtgKNinQhWLDoYK4R\n5RfddZI9SVP28OlDOQOmo+T0E+JqYIT+l1gQRunFfuNwjoKYLSuRcjC8Dt9s5bCT\n3JSswixOAQKBgBfp1PRYu8bdtVHLQZirpwGoLR6gFng5bEuoqxZJyAgWLd8KFifi\nQZAZJ/P7086ODkgRClyHMgf+oYct/fA0aYXSdUoMamEAahModFcVryB2G0GO3vrH\nCjXR33u3pzNpZeeDy/40bjUh1rTxgYWsDoGJw4GaXIVFCUjrx8vYB5mNAoGAb5tv\nQJKV250ClKWeYiLL3rB3BlZaIl7oQ34wOfhOl1ubzG/pqaKM1D5WLAbLB5b3UjYB\n+uuT0IeMA8BYvJyUQtM4JU5arylMIn7V1h9vE/LJyr+C9USTC8q4+cpYxqyOK5FB\neMFGLl6Scf2TCqAa/E1F9KzXFAp9U/HVWPtJQgECgYAMcGCXXoctWo82cBMPx9Q9\n/+4JWBcoWEobrujTyOB8+nRIlghft+WhKW8EqUi/KVrGxx2fD/CGn7UTd1RF39yA\nY3N/jSETLInOU7KsohcbjhBnlPHA1sFwK1+CfDFGkYLxTaJO+ZkVvyILe0Vb4Tjl\n8dxzjYOIbsF8uV0E8sMGGg==\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "",
+  "private_key": "",
   "client_email": "pubsub@analog-foundry-230215.iam.gserviceaccount.com",
   "client_id": "108417104727535520888",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
