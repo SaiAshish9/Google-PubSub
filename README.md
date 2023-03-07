@@ -6,9 +6,7 @@
 
 <img width="1783" alt="Screenshot 2023-03-07 at 11 38 09 PM" src="https://user-images.githubusercontent.com/43849911/223510778-12db91e0-4b0d-4c3e-8ce7-f6d4419620ca.png">
 
-<img width="1782" alt="Screenshot 2023-03-07 at 11 39 31 PM" src="https://user-images.githubusercontent.com/43849911/223511162-75d993b5-a59b-4b24-890c-5ade22f28017.png">
-
-<img width="1783" alt="Screenshot 2023-03-07 at 11 39 47 PM" src="https://user-images.githubusercontent.com/43849911/223511264-b4f13abb-c928-4bfe-b2b4-3c6282c6aab5.png">
+<img width="1789" alt="Screenshot 2023-03-07 at 11 47 30 PM" src="https://user-images.githubusercontent.com/43849911/223513672-6a1e3366-1c7a-4227-a428-d8c250dc9a27.png">
 
 
 ```
